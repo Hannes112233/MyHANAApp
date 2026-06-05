@@ -23,9 +23,10 @@
       "binding-secret",
       "x509"
     ],
+    "token-validity": 43200, 
     "redirect-uris": [
       "https://*.applicationstudio.cloud.sap/**",
-      "https://coe-emea-hana-platform-d054555-coe-emea-hana-ti-cloud-myhanaapp.cfapps.eu20.hana.ondemand.com"
+      "https://*.hana.ondemand.com/**"
     ]
   }
 }
