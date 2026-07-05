@@ -63,7 +63,7 @@ resources:
       service-plan: application
       path: ./xs-security.json
       config:
-        xsappname: MyHANAApp-${org}-${space}
+        xsappname: MyHANAApp
         tenant-mode: dedicated
         oauth2-configuration:
           credential-types:

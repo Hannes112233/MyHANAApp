@@ -1,0 +1,430 @@
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:44:48.204325] Added process: "web" (STDOUT, API)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:44:48.217744] Created app with guid 30f39fab-8d7b-4549-927d-378c796efb70 (STDOUT, API)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:44:48.357032] Updating process: "web" (STDOUT, API)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:44:48.460842] Scaling process: "web" (STDOUT, API)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:07.682059] Uploading app package for app with guid 30f39fab-8d7b-4549-927d-378c796efb70 (STDOUT, API)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:07.962899] Updated app with guid 30f39fab-8d7b-4549-927d-378c796efb70 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:17.587638] Creating build for app with guid 30f39fab-8d7b-4549-927d-378c796efb70 (STDOUT, API)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.115950] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.146659] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.146725] Cell 050a629d-dee5-45d4-8715-4dca555132cc creating container for instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.548402] Security group rules were updated (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.596815] Cell 050a629d-dee5-45d4-8715-4dca555132cc successfully created container for instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.177107] Downloading app package... (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.475246] Downloaded app package (2.6M) (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.555565] -----> Nodejs Buildpack version 1.9.2 (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.653898] -----> Bootstrapping python (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.653912] -----> Installing python 3.13.13 (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.654022] Copy [/tmp/buildpacks/14ade3cc17cd498b/dependencies/268a5e3743d51a14b86ea9da64439307/python_3.13.13_linux_x64_cflinuxfs4_8311abbf.tgz] (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.196982] -----> Installing binaries (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197118] engines.node (package.json): >=18 (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197131] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197135] [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197226] -----> Installing node 24.15.0 (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197388] Copy [/tmp/buildpacks/14ade3cc17cd498b/dependencies/6441e97e6386f47ec4c16cfdf8db0a17/node_24.15.0_linux_x64_cflinuxfs4_1a62d98b.tgz] (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.198267] Using default npm version: 11.12.1 (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.198292] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.198395] Copy [/tmp/buildpacks/14ade3cc17cd498b/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.498367] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.498386] -----> Creating runtime environment (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.499984] NODE_ENV=production (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500] NODE_HOME=/tmp/contents1975456970/deps/0/node (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500002] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500004] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500007] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500011] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500070] -----> Building dependencies (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500074] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500162] Rebuilding any native modules (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.937130] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.993964] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:26.377509] up to date in 311ms (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:26.377875] 4 packages are looking for funding (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:26.377955] run `npm fund` for details (STDOUT, STG)#
+#2026 07 05 06:45:27.412#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32756#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:26.859154] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 07 05 06:45:37.476#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32761#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.616099] Exit status 0 (STDOUT, STG)#
+#2026 07 05 06:45:37.476#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32761#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.616131] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 07 05 06:45:37.476#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32761#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.616164] Uploading droplet... (STDOUT, STG)#
+#2026 07 05 06:45:37.476#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32761#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.616198] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 07 05 06:45:37.476#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32761#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.656116] Uploaded build artifacts cache (217B) (STDOUT, STG)#
+#2026 07 05 06:45:37.476#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-32761#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:36.244136] Creating droplet for app with guid 30f39fab-8d7b-4549-927d-378c796efb70 (STDOUT, API)#
+#2026 07 05 06:45:47.485#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-25803#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:41.326422] Uploaded droplet (58.8M) (STDOUT, STG)#
+#2026 07 05 06:45:47.485#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-25803#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:41.342340] Uploading complete (STDOUT, STG)#
+#2026 07 05 06:45:47.485#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-25803#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:41.912071] Cell 050a629d-dee5-45d4-8715-4dca555132cc stopping instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:47.485#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-25803#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:41.912100] Cell 050a629d-dee5-45d4-8715-4dca555132cc destroying container for instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:47.485#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-25803#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:42.016074] Staging complete for build 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, API)#
+#2026 07 05 06:45:47.485#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-25803#
+[PollStageAppStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:43.796517] Cell 050a629d-dee5-45d4-8715-4dca555132cc successfully destroyed container for instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:44:48.204325] Added process: "web" (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:44:48.217744] Created app with guid 30f39fab-8d7b-4549-927d-378c796efb70 (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:44:48.357032] Updating process: "web" (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:44:48.460842] Scaling process: "web" (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:07.682059] Uploading app package for app with guid 30f39fab-8d7b-4549-927d-378c796efb70 (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:07.962899] Updated app with guid 30f39fab-8d7b-4549-927d-378c796efb70 ({"environment_variables"=>"[PRIVATE DATA HIDDEN]"}) (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:17.587638] Creating build for app with guid 30f39fab-8d7b-4549-927d-378c796efb70 (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.115950] Downloading nodejs_buildpack... (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.146659] Downloaded nodejs_buildpack (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.146725] Cell 050a629d-dee5-45d4-8715-4dca555132cc creating container for instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.548402] Security group rules were updated (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:18.596815] Cell 050a629d-dee5-45d4-8715-4dca555132cc successfully created container for instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.177107] Downloading app package... (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.475246] Downloaded app package (2.6M) (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.555565] -----> Nodejs Buildpack version 1.9.2 (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.653898] -----> Bootstrapping python (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.653912] -----> Installing python 3.13.13 (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:19.654022] Copy [/tmp/buildpacks/14ade3cc17cd498b/dependencies/268a5e3743d51a14b86ea9da64439307/python_3.13.13_linux_x64_cflinuxfs4_8311abbf.tgz] (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.196982] -----> Installing binaries (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197118] engines.node (package.json): >=18 (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197131] engines.npm (package.json): unspecified (use default) (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197135] [31;1m**WARNING**[0m Dangerous semver range (>) in engines.node. See: http://docs.cloudfoundry.org/buildpacks/node/node-tips.html (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197226] -----> Installing node 24.15.0 (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:23.197388] Copy [/tmp/buildpacks/14ade3cc17cd498b/dependencies/6441e97e6386f47ec4c16cfdf8db0a17/node_24.15.0_linux_x64_cflinuxfs4_1a62d98b.tgz] (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.198267] Using default npm version: 11.12.1 (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.198292] -----> Installing yarn 1.22.22 (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.198395] Copy [/tmp/buildpacks/14ade3cc17cd498b/dependencies/e4fe26756e9984a665478d350474fa2e/yarn_1.22.22_linux_noarch_any-stack_b6132b86.tgz] (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.498367] Installed yarn 1.22.22 (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.498386] -----> Creating runtime environment (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.499984] NODE_ENV=production (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500] NODE_HOME=/tmp/contents1975456970/deps/0/node (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500002] NODE_MODULES_CACHE=true (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500004] NODE_VERBOSE=false (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500007] NPM_CONFIG_LOGLEVEL=error (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500011] NPM_CONFIG_PRODUCTION=true (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500070] -----> Building dependencies (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500074] Prebuild detected (node_modules already exists) (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.500162] Rebuilding any native modules (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.937130] rebuilt dependencies successfully (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:25.993964] Installing any new modules (package.json + package-lock.json) (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:26.377509] up to date in 311ms (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:26.377875] 4 packages are looking for funding (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:26.377955] run `npm fund` for details (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:26.859154] Contrast Security no credentials found. Will not write environment files. (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.616099] Exit status 0 (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.616131] Uploading droplet, build artifacts cache... (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.616164] Uploading droplet... (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.616198] Uploading build artifacts cache... (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:35.656116] Uploaded build artifacts cache (217B) (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:36.244136] Creating droplet for app with guid 30f39fab-8d7b-4549-927d-378c796efb70 (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:41.326422] Uploaded droplet (58.8M) (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:41.342340] Uploading complete (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:41.912071] Cell 050a629d-dee5-45d4-8715-4dca555132cc stopping instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:41.912100] Cell 050a629d-dee5-45d4-8715-4dca555132cc destroying container for instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:42.016074] Staging complete for build 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:43.796517] Cell 050a629d-dee5-45d4-8715-4dca555132cc successfully destroyed container for instance 9f726461-cf8d-4c21-977c-d4c5095418ef (STDOUT, STG)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:47.613840] Updated app with guid 30f39fab-8d7b-4549-927d-378c796efb70 ({:droplet_guid=>"10ac5cb2-f05a-4dc7-b52e-2815972e82a2"}) (STDOUT, API)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:48.217686] Cell 462aef09-1331-49b4-a20b-cbf8c69f16c1 creating container for instance ec1c2f71-bcc8-4dc0-bef2-a45f15b98b03 (STDOUT, CELL)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:48.643242] Security group rules were updated (STDOUT, CELL)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:48.713025] Cell 462aef09-1331-49b4-a20b-cbf8c69f16c1 successfully created container for instance ec1c2f71-bcc8-4dc0-bef2-a45f15b98b03 (STDOUT, CELL)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:52.669767] Invoking pre-start scripts. (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:52.825567] Invoking start command. (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.171329] > start (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.171365] > node node_modules/@sap/hdi-deploy/deploy.js --use-hdb --parameter com.sap.hana.di.table/try_fast_table_migration=true (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294143] VCAP_SERVICES: (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294671] { (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294684] "hana": [ (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294687] { (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294690] "name": "MyHANAApp-db", (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294693] "label": "hana", (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294694] "plan": "hdi-shared", (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294696] "credentials": { (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294699] "schema": "8A1159B8C50C4207B213785D112715A8", (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294700] "database_id": "3a7ef18c-a942-4a3a-9774-6e749eef5f6c", (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294703] "user": "8A1159B8C50C4207B213785D112715A8_AH6MMJB6TO1UNBZVP1V50AV01_RT", (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294706] "hdi_user": "8A1159B8C50C4207B213785D112715A8_AH6MMJB6TO1UNBZVP1V50AV01_DT" (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294708] }, (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294709] "tags": [ (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294712] "hana", (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294713] "database", (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294715] "relational" (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294717] ] (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294719] } (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294721] ] (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.294724] } (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.518#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.615849] @sap/hdi-deploy, version 5.7.0 (mode default), server version 4.00.000.00.1778570724 (4.0.0.0), cloud version 2025.40.26, node version 24.15.0, HDI version 1016, container API version 1007 (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.615938] Deployment started at 2026-07-05 06:45:53 (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.616394] Using hdb@2.29.5 for connection (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.633108] No ignore file at /home/vcap/app/.hdiignore. (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.633258] Collecting files... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.643037] Collecting files... ok (0s 10ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.643059] 3 directories collected (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.643078] 250 files collected (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.643087] 0 reusable modules collected (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.643114] Target service: MyHANAApp-db (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.818724] Previous build with request ID 2972 finished at 2026-07-05T06:43:23.794 with status Rolled back and message: Starting make in the container "8A1159B8C50C4207B213785D112715A8" with 0 files to deploy, 0 files to undeploy... ok. (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.818823] Processing revoke files... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.818926] Processing revoke files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.818996] Processing grants files... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.819052] Processing grants files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.821024] Preprocessing files... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.821259] Preprocessing files... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.821305] Connecting to the container "8A1159B8C50C4207B213785D112715A8"... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.889950] Connecting to the container "8A1159B8C50C4207B213785D112715A8"... ok (0s 68ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:53.889973] Locking the container "8A1159B8C50C4207B213785D112715A8"... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.064820] Locking the container "8A1159B8C50C4207B213785D112715A8"... ok (0s 175ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.064844] Synchronizing files with the container "8A1159B8C50C4207B213785D112715A8"... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.393808] Deleting files... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.509987] Deleting files... ok (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.510005] Writing files... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.510260] Writing 3 items (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.636779] Writing files... ok (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.636815] Synchronizing files with the container "8A1159B8C50C4207B213785D112715A8"... ok (0s 572ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.637131] added files: [] (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.637147] modified files: [] (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.637150] deleted files: [] (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.637261] 0 modified or added files are scheduled for deploy based on delta detection (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.637650] 0 deleted files are scheduled for undeploy based on delta detection (filtered by undeploy allowlist) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.637802] 0 files are scheduled for deploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.637822] 0 files are scheduled for undeploy based on explicit specification (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.637825] Deploying to the container "8A1159B8C50C4207B213785D112715A8"... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835256] Starting make in the container "8A1159B8C50C4207B213785D112715A8" with 0 files to deploy, 0 files to undeploy... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835287] Disabling table replication for the container schema "8A1159B8C50C4207B213785D112715A8"... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835311] Disabling table replication for the container schema "8A1159B8C50C4207B213785D112715A8"... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835315] Migrating libraries... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835512] Migrating libraries... ok (0s 6ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835527] Making... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835538] Preparing... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835602] Preparing... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835658] Preparing the make transaction... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835783] Preparing the make transaction... ok (0s 7ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835792] Calculating dependencies... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835869] Expanding... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835888] Expanding... ok (0s 3ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835904] Precompiling... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835907] Precompiling... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.835959] Merging... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.836046] Merging... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.836069] Calculating dependencies... ok (0s 3ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.836071] No make necessary (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.836139] Making... ok (0s 28ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.836145] Enabling table replication for the container schema "8A1159B8C50C4207B213785D112715A8"... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.836154] Enabling table replication for the container schema "8A1159B8C50C4207B213785D112715A8"... ok (0s 8ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.836246] Starting make in the container "8A1159B8C50C4207B213785D112715A8" with 0 files to deploy, 0 files to undeploy... ok (0s 52ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.837369] Deploying to the container "8A1159B8C50C4207B213785D112715A8"... ok (0s 200ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.837964] No default-access-role handling needed; global role "8A1159B8C50C4207B213785D112715A8::access_role" will not be adapted (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.838086] Unlocking the container "8A1159B8C50C4207B213785D112715A8"... (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.838437] Unlocking the container "8A1159B8C50C4207B213785D112715A8"... ok (0s 0ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.838579] Deployment to container 8A1159B8C50C4207B213785D112715A8 done [Deployment ID: none]. (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.839234] Deployment ended at 2026-07-05 06:45:54 (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.839774] (1s 629ms) (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.854921] npm notice (STDERR, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.854935] npm notice New minor version of npm available! 11.12.1 -> 11.18.0 (STDERR, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.854938] npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.18.0 (STDERR, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.854940] npm notice To update run: npm install -g npm@11.18.0 (STDERR, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.854942] npm notice (STDERR, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:54.908093] Exit status 0 (STDOUT, APP/TASK/deploy)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:55.597816] Cell 462aef09-1331-49b4-a20b-cbf8c69f16c1 stopping instance ec1c2f71-bcc8-4dc0-bef2-a45f15b98b03 (STDOUT, CELL)#
+#2026 07 05 06:45:57.519#Z#DEBUG#fd809866-783c-11f1-b4eb-eeee0a9d7ec9.MyHANAApp-db-deployer#flowable-async-job-executor-thread-33736#
+[PollExecuteTaskStatusExecution] 30f39fab-8d7b-4549-927d-378c796efb70 [2026-07-05T06:45:55.597852] Cell 462aef09-1331-49b4-a20b-cbf8c69f16c1 destroying container for instance ec1c2f71-bcc8-4dc0-bef2-a45f15b98b03 (STDOUT, CELL)#
