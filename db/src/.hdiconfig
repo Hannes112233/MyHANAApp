@@ -1,0 +1,20 @@
+{
+  "plugin_version": "4.0",
+  "file_suffixes": {
+    "hdbtable": {
+      "plugin_name": "com.sap.hana.di.table"
+    },
+    "hdbview": {
+      "plugin_name": "com.sap.hana.di.view"
+    },
+    "hdbindex": {
+      "plugin_name": "com.sap.hana.di.index"
+    },
+    "hdbsequence": {
+      "plugin_name": "com.sap.hana.di.sequence"
+    },
+    "hdbsynonym": {
+      "plugin_name": "com.sap.hana.di.synonym"
+    }
+  }
+}

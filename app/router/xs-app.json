@@ -1,30 +1,30 @@
 {
-    "authenticationMethod": "route",
-    "welcomeFile": "/interaction_items/webapp/index.html",
-    "compression": {
-        "minSize": 2048
+  "authenticationMethod": "route",
+  "welcomeFile": "/interaction_items/webapp/index.html",
+  "compression": {
+    "minSize": 2048
+  },
+  "logout": {
+    "logoutEndpoint": "/app-logout",
+    "logoutPage": "/"
+  },
+  "routes": [
+    {
+      "source": "^/app/(.*)$",
+      "target": "$1",
+      "localDir": ".",
+      "cacheControl": "no-cache, no-store, must-revalidate"
     },
-    "logout": {
-        "logoutEndpoint": "/app-logout",
-        "logoutPage": "/"
+    {
+      "source": "^/appconfig/",
+      "localDir": ".",
+      "cacheControl": "no-cache, no-store, must-revalidate"
     },
-    "routes": [
-        {
-            "source": "^/app/(.*)$",
-            "target": "$1",
-            "localDir": ".",
-            "cacheControl": "no-cache, no-store, must-revalidate"
-        },
-        {
-            "source": "^/appconfig/",
-            "localDir": ".",
-            "cacheControl": "no-cache, no-store, must-revalidate"
-        },
-        {
-            "source": "^/(.*)$",
-            "target": "$1",
-            "destination": "srv-api",
-            "csrfProtection": true
-        }
-    ]
+    {
+      "source": "^/(.*)$",
+      "target": "$1",
+      "destination": "srv-api",
+      "csrfProtection": true
+    }
+  ]
 }

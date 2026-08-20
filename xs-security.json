@@ -1,5 +1,5 @@
 {
-  "xsappname": "myhanaapp",
+  "xsappname": "MyHANAApp",
   "tenant-mode": "dedicated",
   "scopes": [
     {
@@ -23,7 +23,7 @@
       "binding-secret",
       "x509"
     ],
-    "token-validity": 43200, 
+    "token-validity": 43200,
     "redirect-uris": [
       "https://*.applicationstudio.cloud.sap/**",
       "https://*.hana.ondemand.com/**"
